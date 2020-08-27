@@ -16,13 +16,15 @@
 [<img align="left" alt="C++" width="32px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" />](https://de.wikipedia.org/wiki/C%2B%2B)
 [<img align="left" alt="Java" width="32px" height="26px" src="https://www.ispirer.net/images/java-logo.png" />](https://www.java.com/)
 [<img align="left" alt="JDA" width="26px" src="https://avatars0.githubusercontent.com/u/26359291?s=200&v=4" />](https://github.com/DV8FromTheWorld/JDA)
-[<img align="left" alt="Javalin" width="42px" height="32px" src="https://javalin.io/img/javalin.png" />](https://javalin.io/)
-[<img align="left" alt="MySQL" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" />](https://www.mysql.com)
+[<img align="left" alt="Javalin" width="52px" height="32px" src="https://javalin.io/img/javalin.png" />](https://javalin.io/)
+[<img align="left" alt="MySQL" width="29px" height="29px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" />](https://www.mysql.com)
 [<img align="left" alt="Git" width="26px" src="https://www.netways.de/wp-content/uploads/2014/02/Git-Icon-1788C.png" />](https://git-scm.com/)
 [<img align="left" alt="NodeJS" width="42px" height="28px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" />](https://nodejs.org)
 [<img align="left" alt="VS Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
-
-
+[<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/2000px-IntelliJ_IDEA_Logo.svg.png" />](https://www.jetbrains.com/de-de/idea/)
+[<img align="left" alt="CLion" width="26px" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" />](https://www.jetbrains.com/de-de/clion/)
+[<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png" />](https://developer.android.com/studio)
+[<img align="left" alt="Nextcloud" width="46px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/2000px-Nextcloud_Logo.svg.png" />](https://nextcloud.com/)
 
 <br />
 
