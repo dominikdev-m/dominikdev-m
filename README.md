@@ -21,6 +21,9 @@
 [<img align="left" alt="Git" width="26px" src="https://www.netways.de/wp-content/uploads/2014/02/Git-Icon-1788C.png" />](https://git-scm.com/)
 [<img align="left" alt="NodeJS" width="42px" height="28px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" />](https://nodejs.org)
 
+[<img align="left" alt="Git" width="26px" src="https://www.netways.de/wp-content/uploads/2014/02/Git-Icon-1788C.png" />](https://git-scm.com/)
+
+
 
 <br />
 
@@ -34,5 +37,5 @@ ___
 [github]: https://github.com/dominikdev-m
 [twitter]: https://twitter.com/dominikdevde
 [youtube]: https://youtube.com/ColinHDev
-[discord]: $_Dominik#2357
+[discord]: https://hastebin.com/idugahefit.shell
 [homepage]: https://dominikdev.de
