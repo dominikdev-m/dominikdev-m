@@ -39,5 +39,5 @@ ___
 [github]: https://github.com/dominikdev-m
 [twitter]: https://twitter.com/dominikdevde
 [youtube]: https://youtube.com/ColinHDev
-[discord]: https://hastebin.com/idugahefit.shell
+[discord]: https://pastebin.com/rnwxLfmr
 [homepage]: https://dominikdev.de
