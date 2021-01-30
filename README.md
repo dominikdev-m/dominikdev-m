@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dominikdev | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="dominikdev | GitHub" width="22px" color="#FFFFFF" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="dominikdev | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="dominikdev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dominikdev | Homepage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/homeassistant.svg" />][homepage]
