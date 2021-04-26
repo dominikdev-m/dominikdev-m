@@ -2,10 +2,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dominikdev | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="dominikdev | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="dominikdev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="dominikdev | Homepage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/homeassistant.svg" />][homepage]
+[<img align="left" alt="dominikdev | GitHub" width="22px" src="https://cdn.dominikdev.de/1_26.04.2021_23:03/github.png" />][github]
+[<img align="left" alt="dominikdev | Discord" width="22px" src="https://cdn.dominikdev.de/1_26.04.2021_23:03/discord.png" />][discord]
+[<img align="left" alt="dominikdev | Twitter" width="22px" src="https://cdn.dominikdev.de/1_26.04.2021_23:03/twitter.png" />][twitter]
 <br />
 
 
@@ -18,6 +17,5 @@ ___
 
 [github]: https://github.com/dominikdev-m
 [twitter]: https://twitter.com/dominikdevde
-[youtube]: https://youtube.com/ColinHDev
 [discord]: https://pastebin.com/rnwxLfmr
 [homepage]: https://dominikdev.de
