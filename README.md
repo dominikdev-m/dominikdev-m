@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominikdev-m" alt="dominikdev-m" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **info@dominikdev.de**
+- 📫 **info@dominikdev.de**
 
